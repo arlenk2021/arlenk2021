@@ -1,53 +1,36 @@
-<h1 align="center">Hi, I'm Arlen Kumar 👋</h1>
-<p align="center"><b>I build systems that fight bureaucracy and measure AI.</b></p>
+# Arlen Kumar
 
-<p align="center">
-CTO at <a href="https://wrodium.com">Wrodium</a> · NLP/IR researcher at UC Berkeley's Hearst Lab (under Prof. Marti Hearst) · two-time founder (prior exit: Air Quake Simulations).
-</p>
+**I build systems that fight bureaucracy and measure AI.**
 
-<p align="center">
-  <a href="https://arlenkumar.com"><img src="https://img.shields.io/badge/Website-arlenkumar.com-EA580C?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/arlen-frederick-kumar-1198592b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://scholar.google.com/scholar?q=GEO-16+Generative+Engine+Optimization+Kumar"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://arxiv.org/abs/2509.10762"><img src="https://img.shields.io/badge/arXiv-2509.10762-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
-</p>
-
-<p align="center">📰 <b>Featured by <a href="https://scet.berkeley.edu/meet-leanid-palkhouski-the-entrepreneur-solving-knowledge-decay/">UC Berkeley SCET</a></b> — Wrodium &amp; "solving knowledge decay," with cofounder &amp; CTO Arlen Kumar.</p>
+CTO & co-founder of [Wrodium](https://wrodium.com) · NLP/IR researcher at UC Berkeley's [Hearst Lab](https://people.ischool.berkeley.edu/~hearst/) under Prof. Marti Hearst · two-time founder — my first company shipped hardware at 10× below incumbent pricing and exited before I turned 21.
 
 ---
 
-### 🔬 GEO-16 — what makes AI search engines *cite* a page
+## What I'm building
 
-First-author paper, **[arXiv:2509.10762](https://arxiv.org/abs/2509.10762)** ([plain-language explainer](https://arlenkumar.com/geo-16)).
+**[Wrodium](https://wrodium.com)** — *The infrastructure layer between brands and AI.*
+Search didn't die — it moved inside ChatGPT, Gemini, and Perplexity, and most brands are invisible there. Wrodium measures share of voice, citations, and sentiment across AI engines, then generates the machine-readable, on-brand content that wins those citations. Built on first-author research, not vibes. Backed by Berkeley SkyDeck ("Most Innovative Technology," Batch 21). Closed a $1.5M pre-seed.
 
-> **One-line finding:** the pages AI engines cite aren't the best-*written* — they're the most *machine-readable*. Metadata & freshness, semantic HTML, and structured data predict citation more than prose quality.
+**noticeright** — *Eviction defense, made procedurally bulletproof.*
+California eviction law is a maze of statutory deadlines, notice requirements, and procedural traps — and landlords exploit the fact that tenants don't know them. noticeright turns that asymmetry around: it audits notices against the Civil Code and local ordinances, then generates the paperwork that makes a tenant's defense airtight. Born from winning my own dispute in Berkeley. Shipping v1.
 
-### 🏢 Wrodium
+**[llms.txt Generator](https://wrodium.com)** — *Make any site legible to AI in one click.*
+Free GEO tool that crawls a site and generates its `llms.txt` — a curated, structured table of contents that tells LLMs exactly what your content is and why it's worth citing. The lowest-effort, highest-leverage GEO fix that exists.
 
-The knowledge-freshness + GEO/AEO infrastructure layer between brands and AI. It measures a brand's share of voice, citations, and sentiment across ChatGPT / Gemini / Perplexity — then helps generate on-brand content that wins those citations. Berkeley SkyDeck–backed.
+## Research
 
-### 🛠️ Currently building
+**GEO-16** — *What actually makes AI search engines cite a page?*
+First-author paper · [arXiv:2509.10762](https://arxiv.org/abs/2509.10762) · [plain-language explainer](https://arlenkumar.com/geo-16)
 
-- **noticeright** — an eviction-compliance engine making tenant-defense paperwork procedurally bulletproof *(Berkeley · v1)*
-- **CHASE @ COLM 2026** — research paper under review at the Conference on Language Modeling *(decisions Jul 8, 2026)*
-- **Wrodium** — GEO infrastructure for the AI-search era *(closed a $1.5M pre-seed)*
+I analyzed 18,635 real citations across AI search engines and trained a model that predicts citation with 73% accuracy. The finding upends a content-marketing dogma:
 
-### ⚡ llms.txt Generator — a free GEO tool
+> **AI engines don't cite the best-written pages — they cite the most machine-readable ones.** Metadata freshness, semantic HTML, and structured data predict citation more than prose quality.
 
-Generate an `llms.txt` for any site: a curated table of contents that helps LLMs understand and cite your content.
+This research is the foundation Wrodium is built on.
 
-<a href="https://arlenkumar.com/llms-generator.html">
-  <img src="assets/llms-generator.webp" alt="llms.txt Generator — generate llms.txt instantly" width="640">
-</a>
+**CHASE** — Second paper, under review at [COLM 2026](https://colmweb.org) (decisions July 8, 2026).
 
-▶️ **Live tool: [arlenkumar.com/llms-generator](https://arlenkumar.com/llms-generator.html)**
-<sub>(GitHub strips `&lt;iframe&gt;` from READMEs, so this preview links straight to the live tool.)</sub>
+## Elsewhere
 
----
-
-<p align="center">
-🌐 <a href="https://arlenkumar.com">arlenkumar.com</a> &nbsp;·&nbsp;
-💼 <a href="https://www.linkedin.com/in/arlen-frederick-kumar-1198592b8/">LinkedIn</a> &nbsp;·&nbsp;
-🎓 <a href="https://scholar.google.com/scholar?q=GEO-16+Generative+Engine+Optimization+Kumar">Scholar</a> &nbsp;·&nbsp;
-📄 <a href="https://arxiv.org/abs/2509.10762">GEO-16 (arXiv)</a>
-</p>
+📰 [UC Berkeley SCET](https://scet.berkeley.edu/meet-leanid-palkhouski-the-entrepreneur-solving-knowledge-decay/) — feature on Wrodium and "solving knowledge decay"
+🌐 [arlenkumar.com](https://arlenkumar.com) · [wrodium.com](https://wrodium.com)
