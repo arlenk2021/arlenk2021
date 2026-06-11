@@ -12,6 +12,8 @@ CTO at <a href="https://wrodium.com">Wrodium</a> · NLP/IR researcher at UC Berk
   <a href="https://arxiv.org/abs/2509.10762"><img src="https://img.shields.io/badge/arXiv-2509.10762-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
 </p>
 
+<p align="center">📰 <b>Featured by <a href="https://scet.berkeley.edu/meet-leanid-palkhouski-the-entrepreneur-solving-knowledge-decay/">UC Berkeley SCET</a></b> — Wrodium &amp; "solving knowledge decay," with cofounder &amp; CTO Arlen Kumar.</p>
+
 ---
 
 ### 🔬 GEO-16 — what makes AI search engines *cite* a page
