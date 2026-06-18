@@ -9,8 +9,7 @@ CTO & co-founder of [Wrodium](https://wrodium.com) · NLP/IR researcher at UC Be
 ## What I'm building
 
 **[Wrodium](https://wrodium.com)** — *The infrastructure layer between brands and AI.*
-Search didn't die — it moved inside ChatGPT, Gemini, and Perplexity, and most brands are invisible there. Wrodium measures share of voice, citations, and sentiment across AI engines, then generates the machine-readable, on-brand content that wins those citations. Built on first-author research, not vibes. Backed by Berkeley SkyDeck ("Most Innovative Technology," Batch 21). Closed a $1.5M pre-seed.
-
+Search didn't die — it moved inside ChatGPT, Gemini, and Perplexity, and most brands are invisible there. Wrodium measures share of voice, citations, and sentiment across AI engines, then generates the machine-readable, on-brand content that wins those citations. Built on first-author research, not vibes. Backed by Berkeley SkyDeck ("Most Innovative Technology," Batch 21). 
 **noticeright** — *Eviction defense, made procedurally bulletproof.*
 California eviction law is a maze of statutory deadlines, notice requirements, and procedural traps — and landlords exploit the fact that tenants don't know them. noticeright turns that asymmetry around: it audits notices against the Civil Code and local ordinances, then generates the paperwork that makes a tenant's defense airtight. Born from winning my own dispute in Berkeley. Shipping v1.
 
