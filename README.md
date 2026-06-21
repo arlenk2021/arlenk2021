@@ -5,13 +5,13 @@
 
 <!-- ===================== HEADER BANNER ===================== -->
 <a href="https://arlenkumar.com">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:16a34a&height=210&section=header&text=Arlen%20Frederick%20Kumar&fontSize=44&fontColor=f8fafc&fontAlignY=36&desc=research%20%E2%86%92%20benchmark%20%E2%86%92%20agent%20loop%20%E2%86%92%20product%20%E2%86%92%20trust&descAlignY=58&descSize=17" alt="Arlen Frederick Kumar — research to benchmark to agent loop to product to trust" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:16a34a&height=210&section=header&text=Arlen%20Frederick%20Kumar&fontSize=44&fontColor=f8fafc&fontAlignY=36&desc=curious%20about%20how%20AI%20systems%20retrieve%2C%20cite%2C%20and%20decide&descAlignY=58&descSize=17" alt="Arlen Frederick Kumar — curious about how AI systems retrieve, cite, and decide" />
 </a>
 
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=22C55E&center=true&vCenter=true&width=860&lines=CTO+%26+co-founder+%40+Wrodium+%E2%80%94+leading+7+engineers;Knowledge+freshness+for+the+agentic+web;Golden+Evals+for+production+AI+teams;Two-time+founder+%E2%80%94+shipped+hardware%2C+exited+before+21;One+winner+is+a+lie+%E2%80%94+the+best+primitive+depends+on+the+slice)](https://arlenkumar.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=860&lines=I+build+tools+that+help+AI+retrieve+and+cite+better;Former+CTO+%40+Wrodium+%C2%B7+Berkeley+SkyDeck+founder;I+read+the+IR+patents+behind+Perplexity+%26+ChatGPT;Golden+evals+%2B+benchmarks+that+run+on+cloud+compute;Still+early%2C+still+learning+in+public)](https://arlenkumar.com)
 
 </div>
 
@@ -19,13 +19,13 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/arlenkumar.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://arlenkumar.com)
-[![Wrodium](https://img.shields.io/badge/Wrodium-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wrodium.com)
+[![SkyDeck](https://img.shields.io/badge/Berkeley_SkyDeck-Founder-FDB515?style=for-the-badge&logo=googlescholar&logoColor=003262)](https://skydeck.berkeley.edu)
 [![Primitive Bench](https://img.shields.io/badge/Primitive_Bench-111827?style=for-the-badge&logo=target&logoColor=22c55e)](https://www.primitivebench.com)
 [![GEO-16](https://img.shields.io/badge/arXiv-GEO--16-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.10762)
 <br/>
+[![Wrodium](https://img.shields.io/badge/Wrodium-former_CTO-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wrodium.com)
 [![Vela](https://img.shields.io/badge/Vela-YC_W26-1e293b?style=for-the-badge&logo=ycombinator&logoColor=f97316)](https://tryvela.ai)
 [![Relixir](https://img.shields.io/badge/Relixir-YC_X25-1e293b?style=for-the-badge&logo=ycombinator&logoColor=f97316)](https://www.relixir.ai/rex)
-[![Open Source](https://img.shields.io/badge/Open_Source-benchpublic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/primitive-bench/benchpublic)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlen-frederick-kumar-1198592b8)
 
 <img src="https://komarev.com/ghpvc/?username=arlenk2021&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS" alt="profile views" />
@@ -36,59 +36,67 @@
 
 <!-- ===================== WHOAMI TERMINAL ===================== -->
 ```bash
-arlen@berkeley:~$ whoami --verbose
+arlen@berkeley:~$ whoami
 
-  ▸ role        CTO & co-founder @ Wrodium  ·  leading 7 engineers
-  ▸ research    NLP/IR @ UC Berkeley · Hearst Lab (Prof. Marti Hearst)
-  ▸ founder     2x — shipped hardware 10x below incumbent, exited before 21
-  ▸ building    Golden Evals · knowledge freshness · agent-native trust surfaces
-  ▸ thesis      AI should choose, cite, retrieve & act from BETTER evidence
-  ▸ honors      Berkeley SkyDeck B21 · "Most Innovative Technology"
+  Hi, I'm Arlen. I build small tools that help AI systems retrieve,
+  cite, and act from better information. Most of them start the same
+  way: I get curious about how something works and can't stop until
+  I've rebuilt it myself and measured whether it's any good.
+
+  former CTO   Wrodium — knowledge freshness for AI search (role now wrapped)
+  founder      Berkeley SkyDeck · 2x founder — shipped hardware, exited before 21
+  obsessed     information retrieval — I read the patents behind Perplexity
+               & ChatGPT to learn how answer engines actually decide what to cite
+  building     golden evals + benchmarks that run on cloud compute
+  learning     in public, still early, still figuring it out
 
 arlen@berkeley:~$ _
 ```
 
 ---
 
-<!-- ===================== TIMELINE (THE ARC) ===================== -->
-## 🧭 The Arc — how I got here
+<!-- ===================== THE ARC ===================== -->
+## The arc — how I got here
 
-> A throughline, not a résumé: **measure the invisible layer → make it callable by agents → ship the trust surface.**
+> Less a résumé, more a habit: **get curious → read the source → rebuild it → measure if it's real.**
 
 ```mermaid
 timeline
-    title  research → benchmark → agent loop → product → trust
+    title  curiosity → retrieval → evals → trust
     section Before 21
-        Hardware founder : Built and shipped VR flight-sim hardware : 10x below incumbent pricing : Exited before turning 21
+        Hardware founder : Built and shipped VR flight-sim hardware : ~10x below incumbent pricing : Exited before turning 21
     section UC Berkeley
-        Hearst Lab : NLP / IR research : under Prof. Marti Hearst : retrieval, citations, freshness
-    section 2025 · Research → Eval
-        GEO-16 : arXiv paper on what AI engines cite : a measurable rubric for machine trust
-        Relixir · YC X25 : Founding-engineer · autonomous GEO : blindspot detection loops
-    section 2026 · Build the layer
-        Vela · YC W26 : Founding-engineer · proactive scheduling : detect calendar pressure before the ask
-        Wrodium : CTO and co-founder · leading 7 engineers : knowledge freshness + AI-visibility blindspots
-        Primitive Bench : Golden Evals for production AI teams : vendor-neutral, slice-specific, agent-callable
+        Hearst Lab : NLP / IR research under Prof. Marti Hearst
+        Reading the patents : Studied the IR patents behind Perplexity and ChatGPT : to learn how answer engines cite
+    section Founding-engineer
+        Relixir · YC X25 : autonomous GEO and blindspot loops
+        Vela · YC W26 : proactive scheduling intelligence
+    section Wrodium
+        CTO · Berkeley SkyDeck : Led 7 engineers on knowledge freshness : (role now complete)
+    section Now
+        Primitive Bench : Golden evals on cloud compute : vendor-neutral and slice-specific
+        Still learning : in public, one question at a time
 ```
 
 <details>
-<summary><b>🌿 Prefer it as a git history? (click)</b></summary>
+<summary><b>Prefer it as a git history? (click)</b></summary>
 
 ```mermaid
 gitGraph
     commit id: "hardware-exit"
     commit id: "berkeley · hearst-lab"
-    branch research
+    branch retrieval
+    commit id: "read the IR patents"
     commit id: "GEO-16 · arXiv"
     checkout main
-    merge research
+    merge retrieval
     branch founding-eng
     commit id: "Relixir · YC X25"
     commit id: "Vela · YC W26"
     checkout main
     merge founding-eng
     branch wrodium
-    commit id: "CTO + 7 engineers"
+    commit id: "CTO · 7 engineers"
     commit id: "knowledge-freshness"
     checkout main
     merge wrodium
@@ -99,90 +107,90 @@ gitGraph
 
 ---
 
-<!-- ===================== WRODIUM — LEADERSHIP HERO ===================== -->
-## 🛰️ Now — Leading Wrodium
+<!-- ===================== INFORMATION RETRIEVAL ===================== -->
+## How answer engines decide — so I read the patents
+
+I kept seeing people optimize for ChatGPT and Perplexity by guessing. I wanted to understand the mechanism instead of the folklore, so I went to the primary source: the **information-retrieval patents** behind these products — how Perplexity ranks and cites, how OpenAI's retrieval patterns work, how classic IR weighs authority against freshness.
+
+Reading them changed how I build. A few patterns I keep coming back to:
+
+```txt
+• how a system decides a source is "authoritative enough" to cite
+• how recency and freshness get weighed against authority
+• how query understanding reshapes what counts as a relevant chunk
+• where retrieval quietly fails — and nobody notices the silent miss
+```
+
+Then I try to rebuild and measure those patterns. That curiosity is where **GEO-16** (a rubric for what makes a page citation-worthy) and **Primitive Bench** (benchmarks for the retrieval tools agents actually use) both came from.
+
+**📍 [GEO-16 · arXiv:2509.10762](https://arxiv.org/abs/2509.10762)**
+
+---
+
+<!-- ===================== WRODIUM ===================== -->
+## Wrodium — what I led as CTO
 
 <table>
 <tr>
 <td width="56%" valign="top">
 
-I **lead a team of 7 engineers** building **knowledge-freshness infrastructure** that automates how enterprises find the **blindspots in their AI visibility** — and turns those gaps into **recovered revenue** before it leaks out of the building.
+As **CTO, I led a team of 7 engineers** at Wrodium (Berkeley SkyDeck) building **knowledge-freshness infrastructure** — tools that show a company where AI answer engines describe it **wrong, stale, or not at all**, and help it fix the gaps before they cost real business. I've since wrapped up that role, but it's where a lot of my thinking about retrieval and freshness took shape.
 
-The old web optimized for blue links. The new web is mediated by **answer engines.** If an AI engine summarizes your category and you're **stale, missing, misrepresented, or uncitable**, you don't just lose traffic — **you lose the decision before the user ever reaches your site.**
+The simple idea behind it:
 
-```diff
-  What we automate for the enterprise
-+ Blindspot detection   where AI engines get you wrong, stale, or absent
-+ Visibility telemetry  citations, share-of-voice, competitor presence
-+ Knowledge freshness   content drift, stale claims, decaying authority
-+ Machine readability   schema, semantic structure, citation-ready pages
-+ Revenue recovery      every missed mention → a measurable action loop
+```txt
+The old web competed for blue links. The new web is read by answer
+engines first. If you're invisible or out of date inside them, you
+can lose the decision long before anyone visits your site.
 ```
 
-> **A blindspot is not an analytics gap. It's a missing action loop — and a line of revenue leaking out of the building.**
+What the team built:
+
+```diff
++ Blindspot detection   where AI engines get a company wrong, stale, or absent
++ Visibility telemetry  citations, share-of-voice, competitor presence
++ Knowledge freshness   catching content drift and decaying authority
++ Machine readability   schema and structure that make pages easy to cite
+```
 
 </td>
 <td width="44%" valign="top">
 
-<img src="assets/wrodium-team-skydeck.png" alt="Arlen leading the Wrodium team of 7 engineers at UC Berkeley SkyDeck" width="100%" />
+<img src="assets/wrodium-team-skydeck.png" alt="Arlen with the Wrodium team of 7 engineers at UC Berkeley SkyDeck" width="100%" />
 
-<div align="center"><sub><b>The Wrodium team @ Berkeley SkyDeck</b><br/>7 engineers shipping knowledge-freshness infrastructure</sub></div>
+<div align="center"><sub><b>Led the Wrodium team @ Berkeley SkyDeck</b><br/>7 engineers · knowledge-freshness infrastructure</sub></div>
 
 </td>
 </tr>
 </table>
 
-```mermaid
-flowchart LR
-    A[probe AI<br/>answer engines]:::blue --> B[find missing /<br/>wrong / stale]:::red
-    B --> C[map competitor<br/>citations]:::blue
-    C --> D[content +<br/>authority gap]:::purple
-    D --> E[structured<br/>update + publish]:::green
-    E --> F[re-test]:::green
-    F -->|learn| A
-    classDef blue fill:#1e3a8a,color:#fff,stroke:#3b82f6
-    classDef red fill:#b91c1c,color:#fff,stroke:#f87171
-    classDef purple fill:#6d28d9,color:#fff,stroke:#a78bfa
-    classDef green fill:#15803d,color:#fff,stroke:#4ade80
-```
-
-**📍 [wrodium.com](https://wrodium.com) · [SCET: solving knowledge decay](https://scet.berkeley.edu/meet-leanid-palkhouski-the-entrepreneur-solving-knowledge-decay/)**
+**📍 [wrodium.com](https://wrodium.com) · [SCET feature](https://scet.berkeley.edu/meet-leanid-palkhouski-the-entrepreneur-solving-knowledge-decay/)**
 
 ---
 
 <!-- ===================== PRIMITIVE BENCH ===================== -->
-## 🎯 Primitive Bench — the Claude Skill for Golden Evals
+## Primitive Bench — what I'm working on now
 
-> Give Claude or a production team a **vertical, a workflow, and a data need.** Primitive Bench turns the open web into a **verified golden set**, runs vendors against it, and says **what actually works in production.**
+A small, vendor-neutral way to answer a practical question: *for this specific job, which retrieval or extraction tool actually works?* You give it a vertical, a workflow, and a data need; it builds a hand-verified golden set from the open web, runs each tool through the same harness **on cloud compute**, and reports what holds up.
 
 ```mermaid
 flowchart TD
-    A[Production Team Question]:::dark --> B[Vertical Slice Definition]
-    B --> C[Web Evidence Collection]
-    C --> D[Source Provenance + Freshness]
-    D --> E[Golden Eval Item Creation]
-    E --> F[Human Verification]:::purple
-    F --> G[Primitive Adapters]
-    G --> H[Benchmark Harness]
-    H --> I[Slice Scorecard]:::blue
-    I --> J[Claude / Agent Recommendation]
-    J --> K[Production Decision]:::green
+    A[A real question from a team]:::dark --> B[Define the narrow slice]
+    B --> C[Collect web evidence]
+    C --> D[Check provenance + freshness]
+    D --> E[Build golden eval items]
+    E --> F[Human verification]:::purple
+    F --> G[Run tools on cloud compute]:::amber
+    G --> H[Score the slice]:::blue
+    H --> I[Plain recommendation]:::green
     classDef dark fill:#0f172a,color:#fff,stroke:#22c55e
     classDef purple fill:#6d28d9,color:#fff,stroke:#a78bfa
+    classDef amber fill:#b45309,color:#fff,stroke:#fbbf24
     classDef blue fill:#1d4ed8,color:#fff,stroke:#60a5fa
     classDef green fill:#15803d,color:#fff,stroke:#4ade80
 ```
 
-Each question becomes a **slice** — `primitive + vertical + task + data shape + metric + failure mode`. That's *why one winner is a lie:*
-
-| Vertical | Production workflow | Golden eval slice |
-|---|---|---|
-| 🏥 Healthcare | Current clinical-trial / provider info | Freshness-sensitive medical retrieval |
-| ⚖️ Legal | Case law, clauses, citations | Citation-exact legal retrieval |
-| 💵 Finance | Filings, earnings, market-moving claims | Time-sensitive source grounding |
-| 🛡️ Insurance | PDFs, forms, claim evidence | OCR + extraction on form-heavy docs |
-| 📈 Sales / GTM | Technographics + buyer intent | Web company-data accuracy |
-| 🛒 E-commerce | Product specs, prices, availability | Table + schema fidelity |
+The thing I keep relearning: **there's no single winner.** A tool that's great for legal citations can be wrong for e-commerce tables. So I score narrow slices, not categories — and I count **cost per *correct* answer**, since a cheap API that's wrong is the expensive one once you add up the cloud-compute bill behind it.
 
 ```bash
 bench run --primitive web-search --slice fintech.freshness-sensitive
@@ -190,44 +198,42 @@ bench run --primitive extraction  --slice ecommerce.table-fidelity
 bench decision-card --vertical fintech --workflow sales-intelligence
 ```
 
-**Principles:** no pay-to-rank · public methodology · private holdouts · hand-verified gold · *cost per correct answer beats cost per call.*
 **📍 [primitivebench.com](https://www.primitivebench.com) · [github.com/primitive-bench/benchpublic](https://github.com/primitive-bench/benchpublic)**
 
 ---
 
-<!-- ===================== OTHER WORK GRID ===================== -->
-## 🚀 The rest of the constellation
+<!-- ===================== OTHER WORK ===================== -->
+## A few other things I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📑 GEO-16 — *what AI engines cite*
-SEO asks *"how do I rank?"* GEO asks *"how do I become the source an AI trusts enough to cite?"* A measurable rubric for machine-readable trust: metadata, semantic HTML, structured data, provenance, source trails.
-**📍 [arXiv:2509.10762](https://arxiv.org/abs/2509.10762)**
+### Vela — proactive scheduling `YC W26`
+Founding-engineer work on moving scheduling from **reactive inbox → proactive intelligence**: notice an overbooked day, route it to the agent pipeline, and *refuse to act* when live calendar state is missing instead of guessing.
+**📍 [tryvela.ai](https://tryvela.ai)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🗓️ Vela — *proactive scheduling* `YC W26`
-Founding-engineer work moving scheduling from **reactive inbox → proactive intelligence**: detect overbooked days, route findings to the agent pipeline, refuse to act when live state is missing instead of hallucinating.
-**📍 [tryvela.ai](https://tryvela.ai)**
+### Relixir — autonomous GEO `YC X25`
+Founding-engineer exposure to blindspot automation: probe answer engines → find missing mentions → map competitor citations → close the gap → re-test. Taught me a product isn't a dashboard; it's the loop between measuring and acting.
+**📍 [relixir.ai/rex](https://www.relixir.ai/rex)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 Relixir — *autonomous GEO* `YC X25`
-Founding-engineer exposure to blindspot automation: probe engines → find missing mentions → map competitor citations → close gaps → publish → re-test. The product isn't a dashboard; it's the **closed loop between measurement and action.**
-**📍 [relixir.ai/rex](https://www.relixir.ai/rex)**
+### llms.txt Generator
+A free tool that crawls a site and writes its `llms.txt` — a clean map of what an AI engine should understand and cite. The lowest-effort, highest-leverage thing most sites are missing.
+**📍 [arlenkumar.com/projects](https://arlenkumar.com/projects)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🐟 Side experiments
-**`llms.txt Generator`** — AI-readable site maps · **`Benchmark Graveyard`** — a museum of dead benchmarks · **`Proof Duel Arena`** — sportscast theorem proving · **`regress.fish`** — NOAA forecast with a public Brier scoreboard.
-**📍 [arlenkumar.com/projects](https://arlenkumar.com/projects)**
+### Smaller experiments
+**`Benchmark Graveyard`** — a museum of dead AI benchmarks and why they collapsed · **`regress.fish`** — a NOAA fishing forecast that publishes its own error with a Brier scoreboard, because a model that admits when it's wrong is easier to trust.
 
 </td>
 </tr>
@@ -235,8 +241,8 @@ Founding-engineer exposure to blindspot automation: probe engines → find missi
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Stack & focus
+<!-- ===================== STACK & FOCUS ===================== -->
+## What I work with
 
 <div align="center">
 
@@ -247,25 +253,24 @@ Founding-engineer exposure to blindspot automation: probe engines → find missi
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <br/>
 ![Postgres](https://img.shields.io/badge/Postgres_+_pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![AWS](https://img.shields.io/badge/Cloud_Compute-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Claude / MCP](https://img.shields.io/badge/Claude_/_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
-| Domain | What I work on |
+| Area | What it means in practice |
 |---|---|
-| **🏅 Golden evals** | Vertical eval design · human-verified gold · source trails · holdout integrity · cost-per-correct · silent-failure detection |
-| **🔎 Retrieval & RAG** | Hybrid dense+sparse · BM25 + vector · RRF fusion · cross-encoder reranking · citation enforcement · freshness scoring |
-| **📊 AI evaluation** | Split integrity · confidence intervals · statistical separability · contamination detection · vendor-neutral methodology |
-| **🤖 Agent infra** | Claude Skills · MCP servers · tool selection · `llms.txt` · JSON-LD · guardrailed autonomy · refusal paths |
-| **🧭 Autonomous GEO** | Share-of-voice · mention/citation tracking · content-gap detection · semantic chunking · CMS refresh loops |
+| **Information retrieval** | Reading the patents · hybrid dense+sparse · BM25 + vector · reranking · citation behavior · freshness vs. authority |
+| **Evaluation** | Hand-verified golden sets · per-slice scoring · cost per *correct* answer · catching silent failures |
+| **Cloud compute** | Running eval harnesses at scale · distributed benchmark runs · treating cost-per-correct as a real compute budget |
+| **Agent tooling** | Claude Skills · MCP servers · `llms.txt` · JSON-LD · guardrails and refusal paths when state is missing |
 
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📈 GitHub signals
+## A bit of GitHub
 
 <div align="center">
 
@@ -279,30 +284,28 @@ Founding-engineer exposure to blindspot automation: probe engines → find missi
 
 ---
 
-<!-- ===================== PRINCIPLES ===================== -->
-## 🧠 How I think
+<!-- ===================== HOW I THINK ===================== -->
+## A few things I believe
 
-> **1.** Research is only useful if it changes what gets built. *Paper → rubric → dashboard → workflow → outcome.*
+> **1.** Research is only useful if it changes what gets built. *A paper should become a rubric, then a tool, then an outcome.*
 >
-> **2.** Benchmarks should be honest enough to disappoint you. *One that always confirms the obvious is marketing.*
+> **2.** A benchmark should be honest enough to disappoint you. *If it always confirms the obvious, it's marketing.*
 >
-> **3.** The next reader is a machine. *AI increasingly decides what gets read, cited, fetched, bought, scheduled.*
+> **3.** "Best" is usually the wrong question. *Better: best for which slice, at what cost, with what failure mode?*
 >
-> **4.** "Best" is the wrong question. *Best for which slice, under which constraint, at what cost, with what failure mode?*
+> **4.** Autonomy needs guardrails. *An agent should be willing to refuse when it isn't sure.*
 >
-> **5.** Autonomy without guardrails is just vibes with permissions. *Agents need thresholds, vetoes, state checks, refusal.*
->
-> **6.** A dashboard is not enough. The best systems close the loop → `measure → diagnose → act → re-test → learn`
+> **5.** I'd rather be useful than impressive, and I'm still learning either way.
 
 ---
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-### Build the eval. Verify the source. Score the slice. Make it agent-callable.
+### Get curious. Read the source. Rebuild it. Measure if it's real.
 
 [![Website](https://img.shields.io/badge/arlenkumar.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://arlenkumar.com)
-[![Email](https://img.shields.io/badge/Email-16a34a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlen1788@berkeley.edu)
+[![Email](https://img.shields.io/badge/Say_hi-16a34a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlen1788@berkeley.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlen-frederick-kumar-1198592b8)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,60:0f172a,100:020617&height=120&section=footer" />
