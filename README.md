@@ -1,87 +1,136 @@
 <!-- ============================================================= -->
 <!--  ARLEN FREDERICK KUMAR · PROFILE README                       -->
-<!--  Aesthetic: terminal / build-log · slate #0F172A + run-green  -->
+<!--  Palette matches arlenkumar.com                               -->
+<!--  amber #e8920a → orange #ea580c → rose #e0476b → purple #8b3fd6 -->
 <!-- ============================================================= -->
 
 <!-- ===================== HEADER BANNER ===================== -->
 <a href="https://arlenkumar.com">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:16a34a&height=210&section=header&text=Arlen%20Frederick%20Kumar&fontSize=44&fontColor=f8fafc&fontAlignY=36&desc=curious%20about%20how%20AI%20systems%20retrieve%2C%20cite%2C%20and%20decide&descAlignY=58&descSize=17" alt="Arlen Frederick Kumar — curious about how AI systems retrieve, cite, and decide" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8920a,34:ea580c,66:e0476b,100:8b3fd6&height=200&section=header&text=Arlen%20Frederick%20Kumar&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=I%20build%20systems%20that%20fight%20bureaucracy%20and%20measure%20AI&descAlignY=58&descSize=18" alt="Arlen Frederick Kumar — I build systems that fight bureaucracy and measure AI" />
 </a>
 
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=860&lines=I+build+tools+that+help+AI+retrieve+and+cite+better;Former+CTO+%40+Wrodium+%C2%B7+Berkeley+SkyDeck+founder;I+read+the+IR+patents+behind+Perplexity+%26+ChatGPT;Golden+evals+%2B+benchmarks+that+run+on+cloud+compute;Still+early%2C+still+learning+in+public)](https://arlenkumar.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=20&pause=1000&color=EA580C&center=true&vCenter=true&width=860&lines=Former+CTO+%40+Wrodium+%C2%B7+Berkeley+SkyDeck+founder;I+read+the+IR+patents+behind+Perplexity+%26+ChatGPT;Researching+equitable+AI+at+California+Cloud+Compute;At+19%2C+I+built+and+sold+a+hardware+company;Still+early%2C+still+learning+in+public)](https://arlenkumar.com)
 
 </div>
 
 <!-- ===================== BADGE ROW ===================== -->
 <div align="center">
 
-[![Website](https://img.shields.io/badge/arlenkumar.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://arlenkumar.com)
-[![SkyDeck](https://img.shields.io/badge/Berkeley_SkyDeck-Founder-FDB515?style=for-the-badge&logo=googlescholar&logoColor=003262)](https://skydeck.berkeley.edu)
-[![Primitive Bench](https://img.shields.io/badge/Primitive_Bench-111827?style=for-the-badge&logo=target&logoColor=22c55e)](https://www.primitivebench.com)
-[![GEO-16](https://img.shields.io/badge/arXiv-GEO--16-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.10762)
+[![Website](https://img.shields.io/badge/arlenkumar.com-1c1714?style=for-the-badge&logo=vercel&logoColor=white)](https://arlenkumar.com)
+[![SkyDeck](https://img.shields.io/badge/Berkeley_SkyDeck-Founder-e8920a?style=for-the-badge&logo=googlescholar&logoColor=white)](https://skydeck.berkeley.edu)
+[![Wrodium](https://img.shields.io/badge/Wrodium-former_CTO-ea580c?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wrodium.com)
+[![Primitive Bench](https://img.shields.io/badge/Primitive_Bench-8b3fd6?style=for-the-badge&logo=target&logoColor=white)](https://www.primitivebench.com)
 <br/>
-[![Wrodium](https://img.shields.io/badge/Wrodium-former_CTO-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wrodium.com)
-[![Vela](https://img.shields.io/badge/Vela-YC_W26-1e293b?style=for-the-badge&logo=ycombinator&logoColor=f97316)](https://tryvela.ai)
-[![Relixir](https://img.shields.io/badge/Relixir-YC_X25-1e293b?style=for-the-badge&logo=ycombinator&logoColor=f97316)](https://www.relixir.ai/rex)
+[![GEO-16](https://img.shields.io/badge/arXiv-GEO--16-e0476b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.10762)
+[![Vela](https://img.shields.io/badge/Vela-YC_W26-1c1714?style=for-the-badge&logo=ycombinator&logoColor=f97316)](https://tryvela.ai)
+[![Relixir](https://img.shields.io/badge/Relixir-YC_X25-1c1714?style=for-the-badge&logo=ycombinator&logoColor=f97316)](https://www.relixir.ai/rex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlen-frederick-kumar-1198592b8)
 
-<img src="https://komarev.com/ghpvc/?username=arlenk2021&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=arlenk2021&style=for-the-badge&color=e0476b&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
 ---
 
-<!-- ===================== WHOAMI TERMINAL ===================== -->
-```bash
-arlen@berkeley:~$ whoami
+## Hi, I'm Arlen 👋
 
-  Hi, I'm Arlen. I build small tools that help AI systems retrieve,
-  cite, and act from better information. Most of them start the same
-  way: I get curious about how something works and can't stop until
-  I've rebuilt it myself and measured whether it's any good.
+I build systems that **fight bureaucracy and measure AI**.
 
-  former CTO   Wrodium — knowledge freshness for AI search (role now wrapped)
-  founder      Berkeley SkyDeck · 2x founder — shipped hardware, exited before 21
-  research     California Cloud Compute — equitable AI + open course material
-  obsessed     information retrieval — I read the patents behind Perplexity
-               & ChatGPT to learn how answer engines actually decide what to cite
-  building     golden evals + benchmarks that run on cloud compute
-  learning     in public, still early, still figuring it out
+Most of what I make starts the same way: I get curious about how something actually works, I can't let it go, and I don't feel like I understand it until I've rebuilt it myself and measured whether it's any good. That's the whole loop. Everything below is just me running it on a different problem.
 
-arlen@berkeley:~$ _
-```
+Here's the short version of how I got here.
 
 ---
 
-<!-- ===================== THE ARC ===================== -->
-## The arc — how I got here
+## It started with hardware
 
-> Less a résumé, more a habit: **get curious → read the source → rebuild it → measure if it's real.**
+At **19**, I built and sold **Air Quake Simulations** — a VR flight-sim hardware company that shipped real product at roughly **10x below** what the incumbents charged. I exited before I turned 21.
+
+That taught me the lesson I still use: an idea isn't real until it survives contact with the physical world, a budget, and someone willing to pay for it.
+
+---
+
+## Then I got obsessed with how AI *decides*
+
+I went to **UC Berkeley** and did **NLP / information-retrieval research** in the **Hearst Lab** under Prof. Marti Hearst. Around then, everyone started "optimizing" for ChatGPT and Perplexity — mostly by guessing. That bothered me.
+
+So instead of guessing, I read the source: the **information-retrieval patents** behind these products. How Perplexity ranks and cites. How modern retrieval weighs **freshness against authority**. Where retrieval quietly fails and nobody notices the miss.
+
+That turned into **GEO-16** — a paper and a rubric for what actually makes a page worth citing to an AI answer engine.
+
+> 📄 **[GEO-16 · arXiv:2509.10762](https://arxiv.org/abs/2509.10762)**
+
+---
+
+## I helped build a company around it
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+That research had an obvious use, so I helped build **Wrodium**, where I served as **CTO and led a team of 7 engineers** out of **Berkeley SkyDeck**.
+
+The idea was simple: the old web competed for blue links, but the new web is read by **answer engines first**. If an AI describes your company **wrong, stale, or not at all**, you can lose the decision long before anyone visits your site. Wrodium found those blind spots and helped companies fix them.
+
+I've since **wrapped up the CTO role** — but it's where most of my thinking about retrieval and freshness took shape, and where I learned how to lead engineers, not just code.
+
+</td>
+<td width="44%" valign="top">
+
+<img src="assets/wrodium-team-skydeck.png" alt="Arlen with the Wrodium team of 7 engineers at UC Berkeley SkyDeck" width="100%" />
+
+<div align="center"><sub><b>The Wrodium team @ Berkeley SkyDeck</b><br/>7 engineers · knowledge-freshness infrastructure</sub></div>
+
+</td>
+</tr>
+</table>
+
+Along the way I also did founding-engineer work at two YC companies — **[Relixir](https://www.relixir.ai/rex)** `YC X25` (autonomous AI-search visibility) and **[Vela](https://tryvela.ai)** `YC W26` (proactive scheduling that refuses to act when it isn't sure) — both of which sharpened the same instinct: a product isn't a dashboard, it's the loop between **measuring** something and **acting** on it.
+
+---
+
+## Now: measuring the tools, and making compute fair
+
+These days I'm split between two things I genuinely love.
+
+**Primitive Bench** is the *measuring* half. It answers a very practical question — *for this specific job, which retrieval or extraction tool actually works?* You give it a vertical and a data need; it builds a hand-verified golden set from the open web, runs each tool through the same harness on cloud compute, and tells you what held up. The lesson I keep relearning: **there's no single winner.** A tool that's perfect for legal citations can be wrong for e-commerce tables — so I score narrow slices, and I count **cost per *correct* answer**, because a cheap API that's wrong is the expensive one once the compute bill arrives.
+
+```bash
+bench run --primitive web-search --slice fintech.freshness-sensitive
+bench decision-card --vertical fintech --workflow sales-intelligence
+```
+
+**California Cloud Compute** is the *fairness* half. I'm doing research there on making serious compute **reachable for people who normally can't afford it** — students, public-interest researchers, smaller labs — and writing **open course material** so others can actually learn this, not just read about it. Most of my other work assumes you can spend freely on compute to measure things. This is the part that asks the opposite question: *how do we make that capability equitable in the first place?*
+
+> 🎯 **[primitivebench.com](https://www.primitivebench.com)** · 📚 **California Cloud Compute — equitable AI + course material**
+
+---
+
+## The same story, as a timeline
 
 ```mermaid
 timeline
     title  curiosity → retrieval → evals → trust
-    section Before 21
-        Hardware founder : Built and shipped VR flight-sim hardware : ~10x below incumbent pricing : Exited before turning 21
+    section Age 19
+        Air Quake Simulations : Built and sold a VR flight-sim hardware company : ~10x below incumbent pricing
     section UC Berkeley
         Hearst Lab : NLP / IR research under Prof. Marti Hearst
-        Reading the patents : Studied the IR patents behind Perplexity and ChatGPT : to learn how answer engines cite
+        Reading the patents : Studied the IR patents behind Perplexity and ChatGPT
     section Founding-engineer
-        Relixir · YC X25 : autonomous GEO and blindspot loops
+        Relixir · YC X25 : autonomous AI-search visibility
         Vela · YC W26 : proactive scheduling intelligence
     section Wrodium
         CTO · Berkeley SkyDeck : Led 7 engineers on knowledge freshness : (role now complete)
     section Now
-        California Cloud Compute : Research toward equitable AI : writing open course material
-        Primitive Bench : Golden evals on cloud compute : vendor-neutral and slice-specific
-        Still learning : in public, one question at a time
+        Primitive Bench : Golden evals on cloud compute
+        California Cloud Compute : Research on equitable AI + open course material
 ```
 
 <details>
-<summary><b>Prefer it as a git history? (click)</b></summary>
+<summary><b>Or the same thing as a git history (click)</b></summary>
 
 ```mermaid
 gitGraph
@@ -99,7 +148,6 @@ gitGraph
     merge founding-eng
     branch wrodium
     commit id: "CTO · 7 engineers"
-    commit id: "knowledge-freshness"
     checkout main
     merge wrodium
     commit id: "Primitive Bench" tag: "now"
@@ -109,157 +157,6 @@ gitGraph
 
 ---
 
-<!-- ===================== INFORMATION RETRIEVAL ===================== -->
-## How answer engines decide — so I read the patents
-
-I kept seeing people optimize for ChatGPT and Perplexity by guessing. I wanted to understand the mechanism instead of the folklore, so I went to the primary source: the **information-retrieval patents** behind these products — how Perplexity ranks and cites, how OpenAI's retrieval patterns work, how classic IR weighs authority against freshness.
-
-Reading them changed how I build. A few patterns I keep coming back to:
-
-```txt
-• how a system decides a source is "authoritative enough" to cite
-• how recency and freshness get weighed against authority
-• how query understanding reshapes what counts as a relevant chunk
-• where retrieval quietly fails — and nobody notices the silent miss
-```
-
-Then I try to rebuild and measure those patterns. That curiosity is where **GEO-16** (a rubric for what makes a page citation-worthy) and **Primitive Bench** (benchmarks for the retrieval tools agents actually use) both came from.
-
-**📍 [GEO-16 · arXiv:2509.10762](https://arxiv.org/abs/2509.10762)**
-
----
-
-<!-- ===================== WRODIUM ===================== -->
-## Wrodium — what I led as CTO
-
-<table>
-<tr>
-<td width="56%" valign="top">
-
-As **CTO, I led a team of 7 engineers** at Wrodium (Berkeley SkyDeck) building **knowledge-freshness infrastructure** — tools that show a company where AI answer engines describe it **wrong, stale, or not at all**, and help it fix the gaps before they cost real business. I've since wrapped up that role, but it's where a lot of my thinking about retrieval and freshness took shape.
-
-The simple idea behind it:
-
-```txt
-The old web competed for blue links. The new web is read by answer
-engines first. If you're invisible or out of date inside them, you
-can lose the decision long before anyone visits your site.
-```
-
-What the team built:
-
-```diff
-+ Blindspot detection   where AI engines get a company wrong, stale, or absent
-+ Visibility telemetry  citations, share-of-voice, competitor presence
-+ Knowledge freshness   catching content drift and decaying authority
-+ Machine readability   schema and structure that make pages easy to cite
-```
-
-</td>
-<td width="44%" valign="top">
-
-<img src="assets/wrodium-team-skydeck.png" alt="Arlen with the Wrodium team of 7 engineers at UC Berkeley SkyDeck" width="100%" />
-
-<div align="center"><sub><b>Led the Wrodium team @ Berkeley SkyDeck</b><br/>7 engineers · knowledge-freshness infrastructure</sub></div>
-
-</td>
-</tr>
-</table>
-
-**📍 [wrodium.com](https://wrodium.com) · [SCET feature](https://scet.berkeley.edu/meet-leanid-palkhouski-the-entrepreneur-solving-knowledge-decay/)**
-
----
-
-<!-- ===================== PRIMITIVE BENCH ===================== -->
-## Primitive Bench — what I'm working on now
-
-A small, vendor-neutral way to answer a practical question: *for this specific job, which retrieval or extraction tool actually works?* You give it a vertical, a workflow, and a data need; it builds a hand-verified golden set from the open web, runs each tool through the same harness **on cloud compute**, and reports what holds up.
-
-```mermaid
-flowchart TD
-    A[A real question from a team]:::dark --> B[Define the narrow slice]
-    B --> C[Collect web evidence]
-    C --> D[Check provenance + freshness]
-    D --> E[Build golden eval items]
-    E --> F[Human verification]:::purple
-    F --> G[Run tools on cloud compute]:::amber
-    G --> H[Score the slice]:::blue
-    H --> I[Plain recommendation]:::green
-    classDef dark fill:#0f172a,color:#fff,stroke:#22c55e
-    classDef purple fill:#6d28d9,color:#fff,stroke:#a78bfa
-    classDef amber fill:#b45309,color:#fff,stroke:#fbbf24
-    classDef blue fill:#1d4ed8,color:#fff,stroke:#60a5fa
-    classDef green fill:#15803d,color:#fff,stroke:#4ade80
-```
-
-The thing I keep relearning: **there's no single winner.** A tool that's great for legal citations can be wrong for e-commerce tables. So I score narrow slices, not categories — and I count **cost per *correct* answer**, since a cheap API that's wrong is the expensive one once you add up the cloud-compute bill behind it.
-
-```bash
-bench run --primitive web-search --slice fintech.freshness-sensitive
-bench run --primitive extraction  --slice ecommerce.table-fidelity
-bench decision-card --vertical fintech --workflow sales-intelligence
-```
-
-**📍 [primitivebench.com](https://www.primitivebench.com) · [github.com/primitive-bench/benchpublic](https://github.com/primitive-bench/benchpublic)**
-
----
-
-<!-- ===================== CALIFORNIA CLOUD COMPUTE ===================== -->
-## California Cloud Compute — equitable AI + course material
-
-I'm also doing research with **California Cloud Compute**, where the goal is making serious compute reachable for people who normally can't afford it — students, public-interest researchers, smaller labs. Right now that means two things I genuinely enjoy:
-
-```txt
-• research   on how to share cloud compute fairly, so access isn't
-             decided by who has the biggest budget
-• teaching   writing open course material that helps others actually
-             learn this stuff, not just read about it
-```
-
-A lot of my other work assumes you can spend freely on compute to measure things. This is the part that asks the opposite question: **how do we make that capability equitable in the first place?**
-
----
-
-<!-- ===================== OTHER WORK ===================== -->
-## A few other things I've built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Vela — proactive scheduling `YC W26`
-Founding-engineer work on moving scheduling from **reactive inbox → proactive intelligence**: notice an overbooked day, route it to the agent pipeline, and *refuse to act* when live calendar state is missing instead of guessing.
-**📍 [tryvela.ai](https://tryvela.ai)**
-
-</td>
-<td width="50%" valign="top">
-
-### Relixir — autonomous GEO `YC X25`
-Founding-engineer exposure to blindspot automation: probe answer engines → find missing mentions → map competitor citations → close the gap → re-test. Taught me a product isn't a dashboard; it's the loop between measuring and acting.
-**📍 [relixir.ai/rex](https://www.relixir.ai/rex)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### llms.txt Generator
-A free tool that crawls a site and writes its `llms.txt` — a clean map of what an AI engine should understand and cite. The lowest-effort, highest-leverage thing most sites are missing.
-**📍 [arlenkumar.com/projects](https://arlenkumar.com/projects)**
-
-</td>
-<td width="50%" valign="top">
-
-### Smaller experiments
-**`Benchmark Graveyard`** — a museum of dead AI benchmarks and why they collapsed · **`regress.fish`** — a NOAA fishing forecast that publishes its own error with a Brier scoreboard, because a model that admits when it's wrong is easier to trust.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================== STACK & FOCUS ===================== -->
 ## What I work with
 
 <div align="center">
@@ -268,53 +165,42 @@ A free tool that crawls a site and writes its `llms.txt` — a clean map of what
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-<br/>
 ![Postgres](https://img.shields.io/badge/Postgres_+_pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Cloud_Compute-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud Compute](https://img.shields.io/badge/Cloud_Compute-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Claude / MCP](https://img.shields.io/badge/Claude_/_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
 | Area | What it means in practice |
 |---|---|
-| **Information retrieval** | Reading the patents · hybrid dense+sparse · BM25 + vector · reranking · citation behavior · freshness vs. authority |
-| **Evaluation** | Hand-verified golden sets · per-slice scoring · cost per *correct* answer · catching silent failures |
-| **Cloud compute** | Running eval harnesses at scale · distributed benchmark runs · cost-per-correct as a real compute budget |
-| **Equitable AI** | Research with California Cloud Compute · fair access to compute · writing open course material so others can learn |
-| **Agent tooling** | Claude Skills · MCP servers · `llms.txt` · JSON-LD · guardrails and refusal paths when state is missing |
+| **Information retrieval** | Reading the patents · hybrid dense + sparse · reranking · freshness vs. authority · catching silent failures |
+| **Evaluation** | Hand-verified golden sets · per-slice scoring · cost per *correct* answer |
+| **Cloud compute** | Running eval harnesses at scale · cost-per-correct as a real compute budget |
+| **Equitable AI** | California Cloud Compute · fair access to compute · open course material |
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-## A bit of GitHub
+## A few things I believe
+
+> **Research is only useful if it changes what gets built** — a paper should become a rubric, then a tool, then an outcome.
+>
+> **A benchmark should be honest enough to disappoint you** — if it always confirms the obvious, it's marketing.
+>
+> **"Best" is the wrong question** — better: best for which slice, at what cost, with what failure mode?
+>
+> **I'd rather be useful than impressive** — and I'm still learning either way.
+
+---
+
+## GitHub, lately
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arlenk2021&show_icons=true&hide_border=true&title_color=22c55e&icon_color=16a34a&text_color=c9d1d9&bg_color=0d1117" alt="Arlen's GitHub stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arlenk2021&hide_border=true&background=0d1117&ring=22c55e&fire=16a34a&currStreakLabel=22c55e&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlenk2021&layout=compact&hide_border=true&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=arlenk2021&theme=matrix&no-frame=true&column=4&row=2&margin-w=8&margin-h=8" alt="Trophies" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arlenk2021&show_icons=true&hide_border=true&title_color=ea580c&icon_color=8b3fd6&text_color=1c1714&bg_color=fbf8f3" alt="Arlen's GitHub stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arlenk2021&hide_border=true&background=fbf8f3&ring=e0476b&fire=ea580c&currStreakLabel=ea580c&sideLabels=1c1714&dates=8a7d72&currStreakNum=1c1714&sideNums=1c1714" alt="GitHub streak" />
 
 </div>
-
----
-
-<!-- ===================== HOW I THINK ===================== -->
-## A few things I believe
-
-> **1.** Research is only useful if it changes what gets built. *A paper should become a rubric, then a tool, then an outcome.*
->
-> **2.** A benchmark should be honest enough to disappoint you. *If it always confirms the obvious, it's marketing.*
->
-> **3.** "Best" is usually the wrong question. *Better: best for which slice, at what cost, with what failure mode?*
->
-> **4.** Autonomy needs guardrails. *An agent should be willing to refuse when it isn't sure.*
->
-> **5.** I'd rather be useful than impressive, and I'm still learning either way.
 
 ---
 
@@ -323,10 +209,10 @@ A free tool that crawls a site and writes its `llms.txt` — a clean map of what
 
 ### Get curious. Read the source. Rebuild it. Measure if it's real.
 
-[![Website](https://img.shields.io/badge/arlenkumar.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://arlenkumar.com)
-[![Email](https://img.shields.io/badge/Say_hi-16a34a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlen1788@berkeley.edu)
+[![Website](https://img.shields.io/badge/arlenkumar.com-1c1714?style=for-the-badge&logo=vercel&logoColor=white)](https://arlenkumar.com)
+[![Email](https://img.shields.io/badge/Say_hi-ea580c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlen1788@berkeley.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlen-frederick-kumar-1198592b8)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,60:0f172a,100:020617&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b3fd6,34:e0476b,66:ea580c,100:e8920a&height=120&section=footer" />
 
 </div>
