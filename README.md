@@ -45,6 +45,7 @@ arlen@berkeley:~$ whoami
 
   former CTO   Wrodium — knowledge freshness for AI search (role now wrapped)
   founder      Berkeley SkyDeck · 2x founder — shipped hardware, exited before 21
+  research     California Cloud Compute — equitable AI + open course material
   obsessed     information retrieval — I read the patents behind Perplexity
                & ChatGPT to learn how answer engines actually decide what to cite
   building     golden evals + benchmarks that run on cloud compute
@@ -74,6 +75,7 @@ timeline
     section Wrodium
         CTO · Berkeley SkyDeck : Led 7 engineers on knowledge freshness : (role now complete)
     section Now
+        California Cloud Compute : Research toward equitable AI : writing open course material
         Primitive Bench : Golden evals on cloud compute : vendor-neutral and slice-specific
         Still learning : in public, one question at a time
 ```
@@ -202,6 +204,22 @@ bench decision-card --vertical fintech --workflow sales-intelligence
 
 ---
 
+<!-- ===================== CALIFORNIA CLOUD COMPUTE ===================== -->
+## California Cloud Compute — equitable AI + course material
+
+I'm also doing research with **California Cloud Compute**, where the goal is making serious compute reachable for people who normally can't afford it — students, public-interest researchers, smaller labs. Right now that means two things I genuinely enjoy:
+
+```txt
+• research   on how to share cloud compute fairly, so access isn't
+             decided by who has the biggest budget
+• teaching   writing open course material that helps others actually
+             learn this stuff, not just read about it
+```
+
+A lot of my other work assumes you can spend freely on compute to measure things. This is the part that asks the opposite question: **how do we make that capability equitable in the first place?**
+
+---
+
 <!-- ===================== OTHER WORK ===================== -->
 ## A few other things I've built
 
@@ -264,7 +282,8 @@ A free tool that crawls a site and writes its `llms.txt` — a clean map of what
 |---|---|
 | **Information retrieval** | Reading the patents · hybrid dense+sparse · BM25 + vector · reranking · citation behavior · freshness vs. authority |
 | **Evaluation** | Hand-verified golden sets · per-slice scoring · cost per *correct* answer · catching silent failures |
-| **Cloud compute** | Running eval harnesses at scale · distributed benchmark runs · treating cost-per-correct as a real compute budget |
+| **Cloud compute** | Running eval harnesses at scale · distributed benchmark runs · cost-per-correct as a real compute budget |
+| **Equitable AI** | Research with California Cloud Compute · fair access to compute · writing open course material so others can learn |
 | **Agent tooling** | Claude Skills · MCP servers · `llms.txt` · JSON-LD · guardrails and refusal paths when state is missing |
 
 ---
