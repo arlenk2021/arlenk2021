@@ -59,7 +59,7 @@ arlen@berkeley:~$ _
 timeline
     title  research → benchmark → agent loop → product → trust
     section Before 21
-        Hardware founder : Built &amp; shipped VR flight-sim hardware : 10x below incumbent pricing : Exited before turning 21
+        Hardware founder : Built and shipped VR flight-sim hardware : 10x below incumbent pricing : Exited before turning 21
     section UC Berkeley
         Hearst Lab : NLP / IR research : under Prof. Marti Hearst : retrieval, citations, freshness
     section 2025 · Research → Eval
@@ -67,7 +67,7 @@ timeline
         Relixir · YC X25 : Founding-engineer · autonomous GEO : blindspot detection loops
     section 2026 · Build the layer
         Vela · YC W26 : Founding-engineer · proactive scheduling : detect calendar pressure before the ask
-        Wrodium : CTO &amp; co-founder · leading 7 engineers : knowledge freshness + AI-visibility blindspots
+        Wrodium : CTO and co-founder · leading 7 engineers : knowledge freshness + AI-visibility blindspots
         Primitive Bench : Golden Evals for production AI teams : vendor-neutral, slice-specific, agent-callable
 ```
 
