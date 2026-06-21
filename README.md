@@ -1,89 +1,132 @@
-<!-- ====================== HEADER BANNER ====================== -->
+<!-- ============================================================= -->
+<!--  ARLEN FREDERICK KUMAR · PROFILE README                       -->
+<!--  Aesthetic: terminal / build-log · slate #0F172A + run-green  -->
+<!-- ============================================================= -->
+
+<!-- ===================== HEADER BANNER ===================== -->
 <a href="https://arlenkumar.com">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Arlen%20Frederick%20Kumar&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Founder-engineer%20%E2%80%A2%20Evals%20%E2%80%A2%20GEO%20Infrastructure%20%E2%80%A2%20Agent-native%20systems&descAlignY=60&descSize=18" alt="Arlen Frederick Kumar" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:16a34a&height=210&section=header&text=Arlen%20Frederick%20Kumar&fontSize=44&fontColor=f8fafc&fontAlignY=36&desc=research%20%E2%86%92%20benchmark%20%E2%86%92%20agent%20loop%20%E2%86%92%20product%20%E2%86%92%20trust&descAlignY=58&descSize=17" alt="Arlen Frederick Kumar — research to benchmark to agent loop to product to trust" />
 </a>
 
-<!-- ====================== TYPING SUBTITLE ====================== -->
+<!-- ===================== TYPING SUBTITLE ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=820&lines=Building+Golden+Evals+for+production+AI+teams;Knowledge+freshness+%2B+GEO+for+the+agentic+web;Leading+7+engineers+to+kill+enterprise+blindspots;One+winner+is+a+lie+%E2%80%94+the+best+primitive+depends+on+the+slice)](https://arlenkumar.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=22C55E&center=true&vCenter=true&width=860&lines=CTO+%26+co-founder+%40+Wrodium+%E2%80%94+leading+7+engineers;Knowledge+freshness+for+the+agentic+web;Golden+Evals+for+production+AI+teams;Two-time+founder+%E2%80%94+shipped+hardware%2C+exited+before+21;One+winner+is+a+lie+%E2%80%94+the+best+primitive+depends+on+the+slice)](https://arlenkumar.com)
 
 </div>
 
-<!-- ====================== SOCIAL / PROJECT BADGES ====================== -->
+<!-- ===================== BADGE ROW ===================== -->
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-arlenkumar.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://arlenkumar.com)
-[![Primitive Bench](https://img.shields.io/badge/Primitive_Bench-Golden_Evals-111827?style=for-the-badge&logo=target&logoColor=white)](https://www.primitivebench.com)
-[![Wrodium](https://img.shields.io/badge/Wrodium-Knowledge_Freshness-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wrodium.com)
+[![Website](https://img.shields.io/badge/arlenkumar.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://arlenkumar.com)
+[![Wrodium](https://img.shields.io/badge/Wrodium-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wrodium.com)
+[![Primitive Bench](https://img.shields.io/badge/Primitive_Bench-111827?style=for-the-badge&logo=target&logoColor=22c55e)](https://www.primitivebench.com)
 [![GEO-16](https://img.shields.io/badge/arXiv-GEO--16-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.10762)
 <br/>
-[![Vela](https://img.shields.io/badge/Vela-YC_W26-7c3aed?style=for-the-badge&logo=ycombinator&logoColor=white)](https://tryvela.ai)
-[![Relixir](https://img.shields.io/badge/Relixir-YC_X25-0f766e?style=for-the-badge&logo=ycombinator&logoColor=white)](https://www.relixir.ai/rex)
+[![Vela](https://img.shields.io/badge/Vela-YC_W26-1e293b?style=for-the-badge&logo=ycombinator&logoColor=f97316)](https://tryvela.ai)
+[![Relixir](https://img.shields.io/badge/Relixir-YC_X25-1e293b?style=for-the-badge&logo=ycombinator&logoColor=f97316)](https://www.relixir.ai/rex)
 [![Open Source](https://img.shields.io/badge/Open_Source-benchpublic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/primitive-bench/benchpublic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arlen_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlen-frederick-kumar-1198592b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlen-frederick-kumar-1198592b8)
 
-<img src="https://komarev.com/ghpvc/?username=arlenk2021&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=arlenk2021&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
 ---
 
-<!-- ====================== INTRO ====================== -->
-## 👋 Hi, I'm Arlen.
+<!-- ===================== WHOAMI TERMINAL ===================== -->
+```bash
+arlen@berkeley:~$ whoami --verbose
 
-I'm a **builder, founder, and researcher** working on one question:
+  ▸ role        CTO & co-founder @ Wrodium  ·  leading 7 engineers
+  ▸ research    NLP/IR @ UC Berkeley · Hearst Lab (Prof. Marti Hearst)
+  ▸ founder     2x — shipped hardware 10x below incumbent, exited before 21
+  ▸ building    Golden Evals · knowledge freshness · agent-native trust surfaces
+  ▸ thesis      AI should choose, cite, retrieve & act from BETTER evidence
+  ▸ honors      Berkeley SkyDeck B21 · "Most Innovative Technology"
 
-> **How do production AI teams know whether the data, primitive, model, retrieval stack, or workflow they're using is actually correct for their vertical?**
-
-That question has become my operating system:
-
-```mermaid
-flowchart LR
-    A[🌐 web data] --> B[🏅 golden truth]
-    B --> C[🔬 slice-specific eval]
-    C --> D[⚙️ benchmark harness]
-    D --> E[📊 production decision]
-    E --> F[🤖 agent-callable skill]
-    style A fill:#0f172a,color:#fff,stroke:#2563eb
-    style B fill:#1e293b,color:#fff,stroke:#2563eb
-    style C fill:#1e3a8a,color:#fff,stroke:#3b82f6
-    style D fill:#1d4ed8,color:#fff,stroke:#60a5fa
-    style E fill:#6d28d9,color:#fff,stroke:#a78bfa
-    style F fill:#7c3aed,color:#fff,stroke:#c4b5fd
+arlen@berkeley:~$ _
 ```
-
-I'm building toward a world where Claude Code, Cursor, internal AI agents, and production teams **don't pick tools by vibes, vendor claims, or whatever provider is easiest to import.** They should be able to ask *"For this vertical, this use case, this data shape, and this cost/latency constraint — which primitive actually wins?"* — and get an answer backed by evidence.
 
 ---
 
-<!-- ====================== TEAM / LEADERSHIP — WRODIUM ====================== -->
-## 🛰️ Leading Wrodium — Knowledge Freshness for the Enterprise
+<!-- ===================== TIMELINE (THE ARC) ===================== -->
+## 🧭 The Arc — how I got here
+
+> A throughline, not a résumé: **measure the invisible layer → make it callable by agents → ship the trust surface.**
+
+```mermaid
+timeline
+    title  research → benchmark → agent loop → product → trust
+    section Before 21
+        Hardware founder : Built &amp; shipped VR flight-sim hardware : 10x below incumbent pricing : Exited before turning 21
+    section UC Berkeley
+        Hearst Lab : NLP / IR research : under Prof. Marti Hearst : retrieval, citations, freshness
+    section 2025 · Research → Eval
+        GEO-16 : arXiv paper on what AI engines cite : a measurable rubric for machine trust
+        Relixir · YC X25 : Founding-engineer · autonomous GEO : blindspot detection loops
+    section 2026 · Build the layer
+        Vela · YC W26 : Founding-engineer · proactive scheduling : detect calendar pressure before the ask
+        Wrodium : CTO &amp; co-founder · leading 7 engineers : knowledge freshness + AI-visibility blindspots
+        Primitive Bench : Golden Evals for production AI teams : vendor-neutral, slice-specific, agent-callable
+```
+
+<details>
+<summary><b>🌿 Prefer it as a git history? (click)</b></summary>
+
+```mermaid
+gitGraph
+    commit id: "hardware-exit"
+    commit id: "berkeley · hearst-lab"
+    branch research
+    commit id: "GEO-16 · arXiv"
+    checkout main
+    merge research
+    branch founding-eng
+    commit id: "Relixir · YC X25"
+    commit id: "Vela · YC W26"
+    checkout main
+    merge founding-eng
+    branch wrodium
+    commit id: "CTO + 7 engineers"
+    commit id: "knowledge-freshness"
+    checkout main
+    merge wrodium
+    commit id: "Primitive Bench" tag: "now"
+```
+
+</details>
+
+---
+
+<!-- ===================== WRODIUM — LEADERSHIP HERO ===================== -->
+## 🛰️ Now — Leading Wrodium
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="56%" valign="top">
 
-I **lead a team of 7 engineers** building **knowledge-freshness infrastructure** that automates how enterprises find the **blindspots in their AI visibility** — and turns those gaps into **recovered revenue** before it's lost.
+I **lead a team of 7 engineers** building **knowledge-freshness infrastructure** that automates how enterprises find the **blindspots in their AI visibility** — and turns those gaps into **recovered revenue** before it leaks out of the building.
 
-The old web optimized for blue links. The new web is mediated by **answer engines.** If an AI engine summarizes your category and your company is **stale, missing, misrepresented, or uncitable**, you don't just lose traffic — **you lose the decision before the user ever reaches your site.**
+The old web optimized for blue links. The new web is mediated by **answer engines.** If an AI engine summarizes your category and you're **stale, missing, misrepresented, or uncitable**, you don't just lose traffic — **you lose the decision before the user ever reaches your site.**
 
-**What we automate for the enterprise:**
+```diff
+  What we automate for the enterprise
++ Blindspot detection   where AI engines get you wrong, stale, or absent
++ Visibility telemetry  citations, share-of-voice, competitor presence
++ Knowledge freshness   content drift, stale claims, decaying authority
++ Machine readability   schema, semantic structure, citation-ready pages
++ Revenue recovery      every missed mention → a measurable action loop
+```
 
-- 🔎 **Blindspot detection** — where AI engines describe you wrong, stale, or not at all
-- 📡 **Visibility telemetry** — citations, share-of-voice, and competitor presence across AI answer surfaces
-- ⏱️ **Knowledge freshness** — detecting content drift, stale claims, and decaying authority
-- 🧩 **Machine readability** — schema, semantic structure, freshness markers, citation-ready pages
-- 💰 **Revenue recovery** — converting every missed mention into a measurable action loop
-
-> **A blindspot is not an analytics gap. It is a missing action loop — and a line of revenue leaking out of the building.**
+> **A blindspot is not an analytics gap. It's a missing action loop — and a line of revenue leaking out of the building.**
 
 </td>
-<td width="45%" valign="top">
+<td width="44%" valign="top">
 
-<img src="assets/wrodium-team-skydeck.png" alt="Arlen leading the Wrodium team at Berkeley SkyDeck" width="100%" />
+<img src="assets/wrodium-team-skydeck.png" alt="Arlen leading the Wrodium team of 7 engineers at UC Berkeley SkyDeck" width="100%" />
 
-<div align="center"><sub><b>Leading the Wrodium team @ Berkeley SkyDeck</b> — 7 engineers shipping knowledge-freshness infrastructure</sub></div>
+<div align="center"><sub><b>The Wrodium team @ Berkeley SkyDeck</b><br/>7 engineers shipping knowledge-freshness infrastructure</sub></div>
 
 </td>
 </tr>
@@ -91,152 +134,99 @@ The old web optimized for blue links. The new web is mediated by **answer engine
 
 ```mermaid
 flowchart LR
-    A[probe AI<br/>answer engines] --> B[find missing /<br/>wrong / stale]
-    B --> C[map competitor<br/>citations]
-    C --> D[content +<br/>authority gap]
-    D --> E[structured<br/>update + publish]
-    E --> F[re-test]
+    A[probe AI<br/>answer engines]:::blue --> B[find missing /<br/>wrong / stale]:::red
+    B --> C[map competitor<br/>citations]:::blue
+    C --> D[content +<br/>authority gap]:::purple
+    D --> E[structured<br/>update + publish]:::green
+    E --> F[re-test]:::green
     F -->|learn| A
-    style A fill:#1e3a8a,color:#fff
-    style B fill:#b91c1c,color:#fff
-    style C fill:#1d4ed8,color:#fff
-    style D fill:#7c3aed,color:#fff
-    style E fill:#0f766e,color:#fff
-    style F fill:#15803d,color:#fff
+    classDef blue fill:#1e3a8a,color:#fff,stroke:#3b82f6
+    classDef red fill:#b91c1c,color:#fff,stroke:#f87171
+    classDef purple fill:#6d28d9,color:#fff,stroke:#a78bfa
+    classDef green fill:#15803d,color:#fff,stroke:#4ade80
 ```
 
-**📍 [wrodium.com](https://wrodium.com) · [SCET feature: solving knowledge decay](https://scet.berkeley.edu/meet-leanid-palkhouski-the-entrepreneur-solving-knowledge-decay/)**
+**📍 [wrodium.com](https://wrodium.com) · [SCET: solving knowledge decay](https://scet.berkeley.edu/meet-leanid-palkhouski-the-entrepreneur-solving-knowledge-decay/)**
 
 ---
 
-<!-- ====================== CURRENT THESIS ====================== -->
-## 🧠 Current thesis
-
-AI teams are shipping vertical products **faster than their evaluation systems can keep up.**
-
-A healthcare AI system needs different evidence than a legal research agent. A finance workflow needs fresher source trails than a generic chatbot. A recruiting agent needs company and candidate truth that doesn't collapse under entity ambiguity.
-
-The next layer isn't just *"better models."* It's:
-
-> **Golden Evals for production teams — generated from real web data, audited by humans, scored by slice, and callable by agents.**
-
-```txt
-One winner is a lie.
-The best primitive changes by vertical, data shape, freshness need, and failure mode.
-```
-
----
-
-<!-- ====================== PRIMITIVE BENCH ====================== -->
+<!-- ===================== PRIMITIVE BENCH ===================== -->
 ## 🎯 Primitive Bench — the Claude Skill for Golden Evals
 
-> Give Claude or a production AI team a **vertical, a workflow, and a data need.** Primitive Bench turns the open web into a **verified golden set**, runs vendors and primitives against it, and tells the team **what actually works in production.**
+> Give Claude or a production team a **vertical, a workflow, and a data need.** Primitive Bench turns the open web into a **verified golden set**, runs vendors against it, and says **what actually works in production.**
 
 ```mermaid
 flowchart TD
-    A[Production Team Question] --> B[Vertical Slice Definition]
+    A[Production Team Question]:::dark --> B[Vertical Slice Definition]
     B --> C[Web Evidence Collection]
-    C --> D[Source Provenance + Freshness Checks]
+    C --> D[Source Provenance + Freshness]
     D --> E[Golden Eval Item Creation]
-    E --> F[Human Verification]
+    E --> F[Human Verification]:::purple
     F --> G[Primitive Adapters]
     G --> H[Benchmark Harness]
-    H --> I[Slice Scorecard]
+    H --> I[Slice Scorecard]:::blue
     I --> J[Claude / Agent Recommendation]
-    J --> K[Production Decision]
-    style A fill:#0f172a,color:#fff
-    style F fill:#7c3aed,color:#fff
-    style I fill:#1d4ed8,color:#fff
-    style K fill:#15803d,color:#fff
+    J --> K[Production Decision]:::green
+    classDef dark fill:#0f172a,color:#fff,stroke:#22c55e
+    classDef purple fill:#6d28d9,color:#fff,stroke:#a78bfa
+    classDef blue fill:#1d4ed8,color:#fff,stroke:#60a5fa
+    classDef green fill:#15803d,color:#fff,stroke:#4ade80
 ```
 
-**Each question becomes a slice** — a narrow production constraint: `primitive + vertical + task + data shape + metric + failure mode`. This is *why one winner is a lie:*
+Each question becomes a **slice** — `primitive + vertical + task + data shape + metric + failure mode`. That's *why one winner is a lie:*
 
 | Vertical | Production workflow | Golden eval slice |
 |---|---|---|
-| 🏥 Healthcare | Current clinical-trial / provider / policy info | Freshness-sensitive medical source retrieval |
+| 🏥 Healthcare | Current clinical-trial / provider info | Freshness-sensitive medical retrieval |
 | ⚖️ Legal | Case law, clauses, citations | Citation-exact legal retrieval |
 | 💵 Finance | Filings, earnings, market-moving claims | Time-sensitive source grounding |
 | 🛡️ Insurance | PDFs, forms, claim evidence | OCR + extraction on form-heavy docs |
-| 🧑‍💼 Recruiting | Companies, roles, seniority, hiring signals | Entity-disambiguated company/person data |
 | 📈 Sales / GTM | Technographics + buyer intent | Web company-data accuracy |
 | 🛒 E-commerce | Product specs, prices, availability | Table + schema fidelity |
-| 🔐 Cybersecurity | Vendors, CVEs, controls, risk claims | Source-traceable security intel |
-
-<details>
-<summary><b>📦 What a Golden Eval item looks like (click to expand)</b></summary>
-
-```json
-{
-  "id": "fintech_technographics_001",
-  "vertical": "fintech",
-  "workflow": "sales intelligence",
-  "task": "detect payment processor used by company",
-  "gold": {
-    "answer": "Stripe",
-    "accepted_aliases": ["Stripe Payments", "Stripe Checkout"],
-    "must_cite": ["https://example.com/pricing", "https://docs.example.com/payments"]
-  },
-  "source_trail": [
-    { "url": "https://example.com/pricing", "evidence_type": "first_party_page",
-      "retrieved_at": "2026-06-20", "freshness_requirement": "90d" }
-  ],
-  "metrics": ["hit@5", "field_accuracy", "citation_precision", "freshness_pass", "cost_per_correct"],
-  "failure_modes": ["wrong_vendor", "stale_source", "uncited_claim", "entity_confusion"]
-}
-```
-
-</details>
 
 ```bash
-# representative shape
 bench run --primitive web-search --slice fintech.freshness-sensitive
 bench run --primitive extraction  --slice ecommerce.table-fidelity
 bench decision-card --vertical fintech --workflow sales-intelligence
 ```
 
-**Principles:** No pay-to-rank · public methodology · private holdouts · hand-verified gold · per-slice scoring · MCP-queryable · *cost per correct answer beats cost per call.*
-
+**Principles:** no pay-to-rank · public methodology · private holdouts · hand-verified gold · *cost per correct answer beats cost per call.*
 **📍 [primitivebench.com](https://www.primitivebench.com) · [github.com/primitive-bench/benchpublic](https://github.com/primitive-bench/benchpublic)**
 
 ---
 
-<!-- ====================== OTHER WORK ====================== -->
-## 🚀 What else I'm building
+<!-- ===================== OTHER WORK GRID ===================== -->
+## 🚀 The rest of the constellation
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📑 GEO-16 — *what AI answer engines cite*
-Traditional SEO asks *"how do I rank?"* GEO asks *"how do I become the source an AI system trusts enough to cite?"* A measurable rubric for machine-readable trust: metadata, semantic HTML, structured data, authority, provenance, verifiable source trails.
-
+### 📑 GEO-16 — *what AI engines cite*
+SEO asks *"how do I rank?"* GEO asks *"how do I become the source an AI trusts enough to cite?"* A measurable rubric for machine-readable trust: metadata, semantic HTML, structured data, provenance, source trails.
 **📍 [arXiv:2509.10762](https://arxiv.org/abs/2509.10762)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🗓️ Vela — *proactive scheduling intelligence*
-Founding-engineer work on a YC W26 scheduling assistant. Moving scheduling from **reactive inbox handling → proactive intelligence**: detect overbooked days, route findings to the agent pipeline, and refuse to act when live state is missing instead of hallucinating.
-
-**📍 [tryvela.ai](https://tryvela.ai) · [YC profile](https://www.ycombinator.com/companies/vela)**
+### 🗓️ Vela — *proactive scheduling* `YC W26`
+Founding-engineer work moving scheduling from **reactive inbox → proactive intelligence**: detect overbooked days, route findings to the agent pipeline, refuse to act when live state is missing instead of hallucinating.
+**📍 [tryvela.ai](https://tryvela.ai)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 Relixir — *autonomous GEO blindspots*
-Founding-engineer exposure to blindspot automation: probe answer engines → find missing mentions → map competitor citations → close content/authority gaps → publish → re-test. The product isn't a dashboard; it's the **closed loop between measurement and action.**
-
+### 🧭 Relixir — *autonomous GEO* `YC X25`
+Founding-engineer exposure to blindspot automation: probe engines → find missing mentions → map competitor citations → close gaps → publish → re-test. The product isn't a dashboard; it's the **closed loop between measurement and action.**
 **📍 [relixir.ai/rex](https://www.relixir.ai/rex)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🐟 Side experiments
-**`llms.txt Generator`** — curated AI-readable site maps · **`Benchmark Graveyard`** — a museum of dead AI benchmarks · **`Proof Duel Arena`** — sportscast-style theorem proving · **`regress.fish`** — NOAA fishing forecast with a public Brier-score scoreboard.
-
+**`llms.txt Generator`** — AI-readable site maps · **`Benchmark Graveyard`** — a museum of dead benchmarks · **`Proof Duel Arena`** — sportscast theorem proving · **`regress.fish`** — NOAA forecast with a public Brier scoreboard.
 **📍 [arlenkumar.com/projects](https://arlenkumar.com/projects)**
 
 </td>
@@ -245,8 +235,8 @@ Founding-engineer exposure to blindspot automation: probe answer engines → fin
 
 ---
 
-<!-- ====================== TECH STACK ====================== -->
-## 🛠️ Tech & focus areas
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Stack & focus
 
 <div align="center">
 
@@ -260,61 +250,61 @@ Founding-engineer exposure to blindspot automation: probe answer engines → fin
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_/_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude / MCP](https://img.shields.io/badge/Claude_/_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
 | Domain | What I work on |
 |---|---|
-| **🏅 Golden evals** | Vertical eval design · human-verified gold · source trails · holdout integrity · cost-per-correct · silent-failure detection · decision cards |
-| **🔎 Retrieval & RAG** | Hybrid dense+sparse · BM25 + vector · RRF fusion · cross-encoder reranking · query decomposition · citation enforcement · freshness scoring |
-| **📊 AI evaluation** | Public/private split integrity · confidence intervals · statistical separability · contamination detection · vendor-neutral methodology |
-| **🤖 Agent infra** | Claude Skills · MCP servers · tool selection for coding agents · `llms.txt` · JSON-LD · task queues · guardrailed autonomy · refusal paths |
-| **🧭 Autonomous GEO** | Share-of-voice · mention/citation tracking · competitor monitoring · content-gap detection · semantic chunking · CMS refresh loops |
+| **🏅 Golden evals** | Vertical eval design · human-verified gold · source trails · holdout integrity · cost-per-correct · silent-failure detection |
+| **🔎 Retrieval & RAG** | Hybrid dense+sparse · BM25 + vector · RRF fusion · cross-encoder reranking · citation enforcement · freshness scoring |
+| **📊 AI evaluation** | Split integrity · confidence intervals · statistical separability · contamination detection · vendor-neutral methodology |
+| **🤖 Agent infra** | Claude Skills · MCP servers · tool selection · `llms.txt` · JSON-LD · guardrailed autonomy · refusal paths |
+| **🧭 Autonomous GEO** | Share-of-voice · mention/citation tracking · content-gap detection · semantic chunking · CMS refresh loops |
 
 ---
 
-<!-- ====================== GITHUB STATS ====================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 ## 📈 GitHub signals
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arlenk2021&show_icons=true&hide_border=true&title_color=2563eb&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117" alt="Arlen's GitHub stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arlenk2021&hide_border=true&background=0d1117&ring=2563eb&fire=7c3aed&currStreakLabel=2563eb&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arlenk2021&show_icons=true&hide_border=true&title_color=22c55e&icon_color=16a34a&text_color=c9d1d9&bg_color=0d1117" alt="Arlen's GitHub stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arlenk2021&hide_border=true&background=0d1117&ring=22c55e&fire=16a34a&currStreakLabel=22c55e&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlenk2021&layout=compact&hide_border=true&title_color=2563eb&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=arlenk2021&theme=onestar&no-frame=true&column=4&row=2&margin-w=8&margin-h=8" alt="Trophies" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlenk2021&layout=compact&hide_border=true&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+<img width="48%" src="https://github-profile-trophy.vercel.app/?username=arlenk2021&theme=matrix&no-frame=true&column=4&row=2&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
 ---
 
-<!-- ====================== PRINCIPLES ====================== -->
-## 🧭 How I think
+<!-- ===================== PRINCIPLES ===================== -->
+## 🧠 How I think
 
-> **1.** Research is only useful if it changes what gets built. *A paper → a rubric → a dashboard → a workflow → an outcome.*
+> **1.** Research is only useful if it changes what gets built. *Paper → rubric → dashboard → workflow → outcome.*
 >
-> **2.** Benchmarks should be honest enough to disappoint you. *A benchmark that always confirms the obvious is marketing.*
+> **2.** Benchmarks should be honest enough to disappoint you. *One that always confirms the obvious is marketing.*
 >
-> **3.** The next reader is a machine. *AI increasingly decides what gets read, cited, fetched, bought, and scheduled.*
+> **3.** The next reader is a machine. *AI increasingly decides what gets read, cited, fetched, bought, scheduled.*
 >
 > **4.** "Best" is the wrong question. *Best for which slice, under which constraint, at what cost, with what failure mode?*
 >
-> **5.** Autonomy without guardrails is just vibes with permissions. *Agents need thresholds, vetoes, state checks, and the willingness to refuse.*
+> **5.** Autonomy without guardrails is just vibes with permissions. *Agents need thresholds, vetoes, state checks, refusal.*
 >
 > **6.** A dashboard is not enough. The best systems close the loop → `measure → diagnose → act → re-test → learn`
 
 ---
 
-<!-- ====================== FOOTER ====================== -->
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
 
 ### Build the eval. Verify the source. Score the slice. Make it agent-callable.
 
 [![Website](https://img.shields.io/badge/arlenkumar.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://arlenkumar.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlen1788@berkeley.edu)
+[![Email](https://img.shields.io/badge/Email-16a34a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlen1788@berkeley.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlen-frederick-kumar-1198592b8)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,60:0f172a,100:020617&height=120&section=footer" />
 
 </div>
